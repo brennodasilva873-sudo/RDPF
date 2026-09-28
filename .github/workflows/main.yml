@@ -1,0 +1,6 @@
+meu-pc-virtual/
+├── Dockerfile
+├── docker-compose.yml
+├── start.sh
+├── README.md
+└── supervisord.conf
